@@ -9,18 +9,14 @@ Clone the project
   git clone https://github.com/dev-pa5an/mlflow-example.git
 ```
 
-Install dependencies
-
-```bash
-  pip install mlflow
-```
-
-Run mlflow
+Run the project and track the metrics with mlflow ui
 
 ```bash
   mlflow ui
 ```
+
+make sure you are inside the mlflow-example directory
 ```bash
-  python train.py
+  mlflow run . -P alpha={}
 ```
 
