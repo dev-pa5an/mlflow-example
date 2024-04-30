@@ -6,7 +6,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/dev-pa5an/mlflow-example.git
+  git clone https://github.com/mlflow/mlflow-example.git
 ```
 
 Run the project and track the metrics with mlflow ui
