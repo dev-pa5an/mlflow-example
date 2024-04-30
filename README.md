@@ -17,6 +17,6 @@ Run the project and track the metrics with mlflow ui
 
 make sure you are inside the mlflow-example directory
 ```bash
-  mlflow run . -P alpha={}
+  mlflow run . 
 ```
 
